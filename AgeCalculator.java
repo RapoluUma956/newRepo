@@ -122,6 +122,9 @@ public class AgeCalculator {
             default:
                 System.out.println("Invalid Input");
         }
+
+        System.out.println("THANK YOU");
+        
         sc.close();
     }
 }
