@@ -123,7 +123,7 @@ public class AgeCalculator {
                 System.out.println("Invalid Input");
         }
 
-        System.out.println("THANK YOU");
+        System.out.println("hello");
         
         sc.close();
     }
